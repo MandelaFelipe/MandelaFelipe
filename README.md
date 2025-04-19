@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MandelaFelipe
+- 👋 Hi, I’m @Felipe Mandela
 - 👀 I’m interested in Data Analyst Roles
 - 🌱 I’m currently learning Power BI, SQL, Python
 - 💞️ I’m looking to collaborate on ...
